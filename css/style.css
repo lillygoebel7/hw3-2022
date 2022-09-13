@@ -92,9 +92,12 @@ div{
     border-bottom: solid 0px #ffffff;
 }
 
-footer p{
+footer {
     background-image: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
     border: solid 5px #ffffff;
+}
+
+footer p{
     font-size: 20px;
     text-align: right;
     padding-top: 15px;
