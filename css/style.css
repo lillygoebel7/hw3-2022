@@ -92,13 +92,13 @@ div{
     border-bottom: solid 0px #ffffff;
 }
 
-footer{
+footer p{
     background-image: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
     border: solid 5px #ffffff;
     font-size: 20px;
     text-align: right;
-    padding-top: solid 15px linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
-    padding-right: solid 15px linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
-    padding-bottom: solid 15px linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
-    padding-left: solid 0px linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
 }
